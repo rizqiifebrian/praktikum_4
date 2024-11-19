@@ -1,12 +1,11 @@
 # praktikum4
-Nama : Sayyid Sulthan Abyan <p>
-NIM : 312410496 <p>
+Nama : Rizqi febrian arrahman <p>
+NIM : 312410544 <p>
 Kelas : TI.24.A.5 <p>
 Mata Kuliah : Bahasa Pemrograman <p>
 # ```Menambahkan data ke dalam sebuah list:```
 ## flowchart
-![gambar 2](screenshot/ft1.png)
-![gambar 3](screenshot/ft2.png)
+![pt1](https://github.com/user-attachments/assets/271bf3e5-eece-4089-b9e9-678f19e92aff)
 ### ```Alur Algoritma```
  1. Start (Mulai):
     - Program dimulai.

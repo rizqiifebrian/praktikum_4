@@ -27,6 +27,8 @@ Mata Kuliah : Bahasa Pemrograman <p>
     - Program selesai.
    
 ## Program python
-![gambar 4](screenshot/ft3.png)
+![pt2](https://github.com/user-attachments/assets/f0c3bac5-c87a-4ac0-99eb-a6f11a443674)
+
 ## Hasil eksekusi program
-![gambar 5](screenshot/ft4.png)
+![pt3](https://github.com/user-attachments/assets/a68eeafe-253d-46ad-bfea-9d76a6407d15)
+
